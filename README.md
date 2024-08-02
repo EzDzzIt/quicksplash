@@ -1,6 +1,6 @@
 # quicksplash
 
- simple sdl2 program to show an image; specifically for linux-based handhelds
+ simple sdl2 program to show an image; specifically for aarch64-based linux handhelds
 
 ## *compilation*
 
