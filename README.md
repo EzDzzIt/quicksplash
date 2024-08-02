@@ -11,5 +11,6 @@ aarch64-linux-gnu-g++ -o splash splash.c $(sdl2-config --cflags --libs) -lSDL2_i
 requires sdl2-dev, sdl2-image
 
 ## *usage*
-$ chmod +x splash
-$ ./splash <path_to_image> <delay_time (optional)>
+
+$ chmod +x splash  
+$ ./splash <path_to_image> <delay_time (optional)>  
